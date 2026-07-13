@@ -23,7 +23,7 @@
         "url": "https://github.com/deriv-com/derivatives-trader/issues"
     },
     "engines": {
-        "node": "20.x"
+        "node": "24.x"
     },
     "homepage": "https://github.com/deriv-com/derivatives-trader",
     "devDependencies": {
